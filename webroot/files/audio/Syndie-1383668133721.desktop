@@ -1,0 +1,25 @@
+[Desktop Entry]
+Categories=
+Comment=
+Comment[en]=
+Encoding=UTF-8
+Exec=java -jar "/home/faizan/syndie/bin/syndie.jar"
+GenericName=
+GenericName[en]=
+Icon=/home/faizan/syndie/doc/web/favicon.ico
+MimeType=
+Name=Syndie
+Name[en]=Syndie
+Path=/home/faizan/syndie
+ServiceTypes=
+SwallowExec=
+SwallowTitle=
+Terminal=false
+TerminalOptions=
+Type=Application
+URL=
+X-KDE-SubstituteUID=false
+X-KDE-Username=root
+
+# created by com.izforge.izpack.util.os.Unix_Shortcut $Revision: 2452 $
+# $Id: Unix_Shortcut.java 2452 2008-12-16 10:08:10Z eppelman $

@@ -1,0 +1,11 @@
+<h1>Add Gallery</h1>
+<?php
+echo $this->Form->create('Gallery',array('type'=>'file'));
+echo $this->Form->input('album_name',array('label'=>'Name'));
+echo $this->Form->input('date');
+echo $this->Form->input('website');
+echo $this->Form->input('parent_id');
+echo $this->Form->input('album_dir', array('type' => 'file', 'multiple'));
+
+echo $this->Form->end('Save Album');
+?>
